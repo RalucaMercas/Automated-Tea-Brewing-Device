@@ -1,4 +1,4 @@
-# 🍵 Automated Tea Brewing Device
+# ☕ Automated Tea Brewing Device
 
 ## 📌 Overview
 The **Arduino Automated Tea Brewing Device** simplifies the tea-making process by allowing users to set a brewing timer and automatically lifting the tea bag when the timer expires. This system integrates **servo motors**, a **joystick-controlled robotic arm**, and an **LCD keypad** for timer adjustments. Designed for **convenience and precision**, the device ensures a **perfectly brewed cup of tea** every time.
